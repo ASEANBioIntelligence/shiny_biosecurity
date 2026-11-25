@@ -1,0 +1,12 @@
+name: shiny_biosecurity
+title: shiny_biosecurity
+username: abvcsupport
+account: abvcsupport
+server: connect.posit.cloud
+hostUrl: https://api.connect.posit.cloud/v1
+appId: 01a1d2e2-565d-95d5-f5fb-9e6fe7229534
+bundleId:
+url: https://connect.posit.cloud/abvcsupport/content/01a1d2e2-565d-95d5-f5fb-9e6fe7229534
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
